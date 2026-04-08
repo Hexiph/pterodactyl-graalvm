@@ -17,6 +17,7 @@ jobs:
       fail-fast: false
       matrix:
         tag:
+          - 25-JDK-EE
           - 24-JDK-EE
           - 21-JDK-EE
           - 23-JDK-EE
